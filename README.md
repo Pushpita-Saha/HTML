@@ -1,2 +1,2 @@
 # HTML
- a scratch html index
+ basics in a summary
